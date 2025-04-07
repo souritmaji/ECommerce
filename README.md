@@ -1,3 +1,3 @@
 # ECommerce
 
-This is a important repo
+This repo is for an ecommerce application
