@@ -1,3 +1,3 @@
 # ECommerce
 
-This repo is for an ecommerce application
+This repo is for an ecommerce application. It is used to display a products page
